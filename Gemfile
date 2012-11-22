@@ -1,6 +1,6 @@
 source :rubygems
 
-gem 'rails', '3.0.9'
+gem 'rails', '~> 3.2.0'
 gem 'cucumber'
 gem 'cucumber-rails'
 gem 'database_cleaner'
