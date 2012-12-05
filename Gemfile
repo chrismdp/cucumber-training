@@ -5,6 +5,7 @@ gem 'cucumber'
 gem 'cucumber-rails'
 gem 'database_cleaner'
 gem 'webrat'
+gem 'launchy'
 gem 'rspec-rails'
 gem 'sqlite3'
 
