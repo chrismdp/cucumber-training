@@ -10,5 +10,6 @@ group :test do
   gem 'launchy'
   gem 'rspec-rails'
   gem 'database_cleaner'
+  gem 'selenium-webdriver', '>= 2.33.0'
 end
 
