@@ -1,5 +1,5 @@
 Feature: View homepage
 
   Scenario:
-    When I visit the BBC news homepage
-    Then I should see the BBC logo
+    When I visit the checkout homepage
+    Then I should see the checkout title
