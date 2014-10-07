@@ -3,5 +3,5 @@ When /^I visit the checkout homepage$/ do
 end
 
 Then /^I should see the checkout title$/ do
-  page.should have_css("Checkout")
+  page.should have_content("Checkout")
 end
