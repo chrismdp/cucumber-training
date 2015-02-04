@@ -3,5 +3,5 @@ When /^I visit the BBC news homepage$/ do
 end
 
 Then /^I should see the BBC logo$/ do
-  page.should have_css("#blq-blocks")
+  expect(page).to have_css("#blq-blocks")
 end
