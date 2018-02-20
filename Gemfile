@@ -8,6 +8,7 @@ group :test do
   gem 'cucumber-rails'
   gem 'capybara'
   gem 'launchy'
+  gem 'test-unit'
   gem 'rspec-rails'
   gem 'database_cleaner'
   gem 'selenium-webdriver', '>= 2.33.0'
